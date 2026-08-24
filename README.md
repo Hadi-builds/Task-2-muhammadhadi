@@ -22,5 +22,3 @@ Developed as part of the **DecodeLabs Industrial Training Program (Project 2: Th
 
 ### Prerequisites
 * Python 3.8 or higher installed on your machine.
-   git clone [https://github.com/your-username/expense-tracker.git](https://github.com/your-username/expense-tracker.git)
-   cd expense-tracker
